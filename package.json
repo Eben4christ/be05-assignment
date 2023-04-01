@@ -1,0 +1,11 @@
+{
+  "name": "be05-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readFile.js",
+  "scripts": {
+    "start": "nodemon readFile.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
